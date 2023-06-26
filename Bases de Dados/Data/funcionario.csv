@@ -1,0 +1,7 @@
+Nome,NIF,Sexo,DataNascimento,Email,Rua,Cidade,CodigoPostal,Distrito,DataContratacao,Ginasio,SalarioBase,HorarioTrabalho
+Júnior Neto, 123456789, 1, 1990-05-15, joao.silva@example.com, Rua dos Lírios, Lisboa, 12345, Lisboa, 2022-01-01, 1, 1500.00, 1
+Maria Santos, 987654321, 0, 1985-08-25, maria.santos@example.com, Rua da Fonte, Porto, 54321, Porto, 2022-02-01, 1, 1200.00, 2
+Pedro Oliveira, 654321987, 1, 1992-12-10, pedro.oliveira@example.com, Rua dos Girassóis, Braga, 67890, Braga, 2022-03-01, 1, 900.00, 3
+Ana Rodrigues, 111222333, 0, 1995-02-18, ana.rodrigues@example.com, Rua das Oliveiras, Coimbra, 55555, Coimbra, 2022-04-01, 1, 1100.00, 1
+Ricardo Faria, 444555666, 1, 1988-07-01, ricardo.faria@example.com, Rua dos Cravos, Faro, 99999, Faro, 2022-05-01, 1, 1000.00, 2
+Carla Silveira, 777888999, 0, 1993-09-22, carla.silveira@example.com, Rua dos Pinheiros, Viseu, 77777, Viseu, 2022-06-01, 1, 1100.00, 1
